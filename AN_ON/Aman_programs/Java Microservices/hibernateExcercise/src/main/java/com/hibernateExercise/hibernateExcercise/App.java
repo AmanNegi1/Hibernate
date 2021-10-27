@@ -6,6 +6,7 @@ package com.hibernateExercise.hibernateExcercise;
  */
 public class App 
 {
+	//comment Added..
 //    public static void main( String[] args )
 //    {
 //        System.out.println( "Project Started" );
